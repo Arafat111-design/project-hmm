@@ -53,13 +53,13 @@ body{
     border-radius: 36px;
     text-decoration: none;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     flex-shrink: 0;
     transition: .4s;
 }
 
 .inline-btn:hover{
-    background-color: transparent;
+    background-color: green;
     border: 2px solid red;
 }
 
