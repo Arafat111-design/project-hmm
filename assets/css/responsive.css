@@ -1,0 +1,563 @@
+
+@media (min-width: 350px) and (max-width: 576px){ 
+
+    .all-page img {
+        top: -3517px;    
+    }
+
+    .custom-h2 {
+        font-size: 28px;
+    }
+        
+    .navbar {
+        flex-direction: column;   
+        padding: 25px 0 12px 0;
+    }
+
+    .logo {
+        margin-bottom: 25px;
+    }
+
+    .navbar_menu ul {
+        gap: 15px;  
+    }
+
+    .hero-section {
+        flex-direction: column-reverse;
+    }
+
+    .hero-section_left {
+        width: 90%;      
+        height: 40%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hero-section_content h1 {
+        max-width: 100%;
+        font-size: 52px;
+        margin-bottom: 12px;
+    }
+
+    .hero-section_content p {
+      max-width: 100%;
+      font-size: 16px;
+    }
+
+    .hero-section_btn-wraper {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .inline-btn {
+        max-width: 200px;
+        height: 45px;
+        font-size: 14px;
+        margin: 0 auto;
+    }
+
+    .border-btn{
+        max-width: 200px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .hero-section_image-wraper {
+        width: 390px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .brand-section {
+        padding: 9px 0;
+        margin: 25px 15px;
+        flex-direction: column;
+       
+    }
+
+    .brand-section_wraper {
+        flex-direction: column;
+    }
+
+    .brand-section_wraper-item {
+        width: 100px;
+        height: 60px;
+    }
+
+    .tag h4 {
+        font-size: 14px;
+        margin-bottom: 4px;     
+    }
+
+    .area-contect h2 {
+        font-size: 38px;
+        margin-bottom: 14px;
+    }
+
+    .area-contect p {
+        font-size: 14px;
+        margin-bottom: 14px;
+    }
+
+     .features-section {
+        flex-direction: column;
+        margin: 0 16px;
+    }
+
+   .Seamless-Trading {
+        margin-top: -63px;
+        margin-bottom: 23px;
+        flex-direction: column-reverse;
+    }
+    .features-section_content {
+       width: 445px;
+       height: 290px;
+       text-align: center;
+    }
+
+    .Seamless-Trading .features-section_content {
+        margin-left: 33px;
+    }
+
+    .features-section_image-wraper {
+        width: 380px;
+    }
+
+    .testimonial-section {
+        margin-bottom: 40px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .testimonial-section_card-wraper {
+        margin-top: 100px;
+        flex-direction: column;
+        gap: 80px;
+    }
+
+    .testimonial-section_card-item {
+        padding: 81px 24px 43px 24px;      
+    }
+
+    .ready-section {
+        margin: 0 16px;
+    }
+
+    .ready-section_btn {
+        font-size: 12px;
+        padding: 18px 70px;
+    }
+
+    .footer-section {
+        text-align: center;
+        width: 100%;
+        padding: 0 16px;
+        margin-top: 60px;
+        margin-bottom: 10px;
+    }
+
+    .footer-section_item {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+     .footer-section_newslatter {
+        width: 100%;
+    } 
+
+  
+    
+ }
+
+@media (min-width: 576px) and (max-width: 768px){ 
+    
+   .all-page img {
+        top: -2020px;    
+    }
+
+    .custom-h2 {
+        font-size: 37px;
+    }
+        
+    .navbar {
+        flex-direction: column;   
+        padding: 32px 0 15px 0;
+    }
+
+    .logo {
+        margin-bottom: 30px;
+    }
+
+    .navbar_menu ul {
+        gap: 65px;  
+    }
+
+    .hero-section {
+        flex-direction: column-reverse;
+    }
+
+    .hero-section_left {
+        width: 90%;      
+        height: 40%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hero-section_content h1 {
+        max-width: 100%;
+        font-size: 60px;
+    }
+
+    .hero-section_content p {
+      max-width: 100%;
+      font-size: 16px;
+    }
+
+    .hero-section_btn-wraper {
+        justify-content: center;
+    }
+
+    .inline-btn {
+        max-width: 270px;
+        height: 55px;
+        font-size: 16px;
+        margin: 0 auto;
+    }
+
+    .border-btn{
+        max-width: 270px;
+        height: 55px;
+        font-size: 16px;
+    }
+
+    .brand-section {
+        padding: 9px 0;
+        margin: 60px 15px;
+    }
+
+    .tag h4 {
+        font-size: 16px;
+        margin-bottom: 4px;     
+    }
+
+    .area-contect h2 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .area-contect p {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+     .features-section {
+        flex-direction: column;
+    }
+
+    .Seamless-Trading{
+        margin-top: 40px;
+        margin-bottom: 90px;
+        flex-direction: column-reverse;
+    } 
+
+    .features-section_content {
+       width: 445px;
+       height: 290px;
+       text-align: center;
+    }
+
+    .Seamless-Trading .features-section_content {
+        margin-left: 33px;
+    }
+
+    .testimonial-section {
+        margin-bottom: 45px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .testimonial-section_card-wraper {
+        margin-top: 100px;
+        flex-direction: column;
+        gap: 100px;
+    }
+
+    .ready-section {
+        margin: 0 16px;
+    }
+
+    .ready-section_btn {
+        padding: 18px 40px;
+        margin-top: -3px;
+    }
+
+    .footer-section {
+        margin-top: 88px;
+        margin-bottom: 50px;
+        margin-left: 16px;
+        margin-right: 16px;
+    } 
+
+    .footer-section_item {
+        width: 188px;
+        margin-bottom: 50px;
+    }
+
+     .footer-section_newslatter {
+        width: 335px;
+    } 
+    
+ }
+
+ @media (min-width: 768px) and (max-width: 992px){ 
+
+   .all-page img {
+        top: -1297px;    
+    }
+
+    .custom-h2 {
+        font-size: 52px;
+    }
+        
+    .navbar {
+        flex-direction: column;   
+        padding: 32px 0 15px 0;
+    }
+
+    .logo {
+        margin-bottom: 30px;
+    }
+
+    .navbar_menu ul {
+        gap: 105px;  
+    }
+
+    .hero-section {
+        flex-direction: column-reverse;
+    }
+
+    .hero-section_left {
+        width: 90%;      
+        height: 40%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hero-section_content h1 {
+        max-width: 100%;
+        font-size: 65px;
+    }
+
+    .hero-section_content p {
+      max-width: 100%;
+      font-size: 16px;
+    }
+
+    .hero-section_btn-wraper {
+        justify-content: center;
+    }
+
+    .inline-btn {
+        max-width: 280px;
+        font-size: 18px;
+    }
+
+    .border-btn{
+        max-width: 280px;
+        font-size: 18px;
+    }
+
+    .brand-section {
+        padding: 9px 0;
+        margin: 70px 15px;
+    }
+
+    .tag h4 {
+        font-size: px;
+        margin-bottom: 10px;     
+    }
+
+    .area-contect h2 {
+        font-size: 48px;
+        margin-bottom: 16px;
+    }
+
+    .area-contect p {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+    .Seamless-Trading{
+        margin-top: 45px;
+        margin-bottom: 35px;
+    }
+
+    .features-section_content {
+       width: 445px;
+    }
+
+    .Seamless-Trading .features-section_content {
+        margin-left: 45px;
+    }
+
+    .testimonial-section {
+        margin-bottom: 50px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .testimonial-section_card-wraper {
+        margin-top: 100px;
+    
+    }
+
+    .ready-section {
+        margin: 0 16px;
+    } 
+
+    .footer-section {
+        margin-top: 95px;
+        margin-bottom: 58px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+
+    .footer-section_newslatter {
+        margin-top: 50px;
+    }
+
+ }
+
+
+ @media (min-width: 992px) and (max-width: 1100px){ 
+
+   .all-page img {
+        top: -1417px;    
+    }
+
+    .custom-h2 {
+        font-size: 55px;
+    }
+        
+    .navbar {
+        flex-direction: column;   
+        padding: 36px 0 17px 0;
+    }
+
+    .logo {
+        margin-bottom: 30px;
+    }
+
+    .navbar_menu ul {
+        gap: 185px;  
+    }
+
+    .hero-section {
+        flex-direction: column-reverse;
+    }
+
+    .hero-section_left {
+        width: 90%;      
+        height: 40%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hero-section_content h1 {
+        max-width: 100%;
+        font-size: 70px;
+    }
+
+    .hero-section_content p {
+      max-width: 100%;
+      font-size: 16px;
+    }
+
+    .hero-section_btn-wraper {
+        justify-content: center;
+    }
+
+    .inline-btn {
+        max-width: 300px;
+        font-size: 18px;
+    }
+
+    .border-btn{
+        max-width: 300px;
+        font-size: 18px;
+    }
+
+    .brand-section {
+        padding: 100px 0;
+        margin: 0 15px;
+    }
+
+    .tag h4 {
+        font-size: 18px;
+        margin-bottom: 4px;     
+    }
+
+    .area-contect h2 {
+        font-size: 52px;
+        margin-bottom: 18px;
+    }
+
+    .area-contect p {
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+
+    .Seamless-Trading{
+        margin-top: 45px;
+        margin-bottom: 104px;
+    }
+
+    .features-section_content {
+       width: 538px;
+    }
+
+    .Seamless-Trading .features-section_content {
+        margin-left: 112px;
+    }
+
+    .testimonial-section {
+        margin-bottom: 69px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .testimonial-section_card-wraper {
+        margin-top: 111px;
+    
+    }
+
+    .ready-section {
+        margin: 0 16px;
+    }
+
+    .footer-section {
+        margin-top: 103px;
+        margin-bottom: 65px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .footer-section_item {
+        width: 334px;
+        margin-bottom: 40px;
+    }
+
+ }
+ 
+
+
+@media (min-width: 1100px) and (max-width: 1400px){ 
+
+   :root {
+        --common-margin: 0px;
+    }  
+        
+
+ }
+
