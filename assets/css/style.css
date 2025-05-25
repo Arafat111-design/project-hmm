@@ -55,6 +55,11 @@ body{
     text-transform: uppercase;
     letter-spacing: 2px;
     flex-shrink: 0;
+    transition: .4s;
+}
+
+.inline-btn:hover{
+    background-color: transparent;
 }
 
 .border-btn{
@@ -71,6 +76,11 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 1px;
+    transition: .3s;
+}
+
+.border-btn:hover{
+    background-color: var(--secondary-color);
 }
 
 .custom-h2{
@@ -128,6 +138,11 @@ body{
     text-transform: uppercase;
     text-decoration: none;
     color: var(--primary-color);
+    transition: .4s;
+}
+
+.logo a:hover{
+    color: violet;
 }
 
 .navbar_menu ul {
@@ -144,7 +159,13 @@ body{
     font-family: var(--outfit-font);
     color: var(--primary-color);
     text-decoration: none;
+    transition: .4s;
 }
+
+.navbar_menu ul li a:hover{
+    color: violet;
+}
+
 
 /* hero-section */
 
@@ -354,7 +375,13 @@ body{
     text-transform: uppercase;
     letter-spacing: 2px;
     flex-shrink: 0;
+    transition: .3s;
 }
+
+.ready-section_btn:hover{
+    background-color: pink;
+}
+
 
 /* footer-section */
 
@@ -398,6 +425,11 @@ body{
     font-family: var(--roboto-font);
     color: var(--primary-color);
     text-decoration: none;
+    transition: .4s;
+}
+
+.footer-section_links ul li a:hover{
+    color: violet;
 }
 
 .footer-section_newslatter h5{
