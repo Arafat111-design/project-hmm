@@ -61,6 +61,7 @@ body{
 .inline-btn:hover{
     background-color: transparent;
     border: 2px solid var(--secondary-color);
+    padding: 20px 81px;
 }
 
 .border-btn{
