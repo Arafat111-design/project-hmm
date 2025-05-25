@@ -59,7 +59,7 @@ body{
 }
 
 .inline-btn:hover{
-    background-color: none;
+    background-color: transparent;
     border: 2px solid var(--secondary-color);
 }
 
