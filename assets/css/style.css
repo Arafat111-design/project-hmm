@@ -59,8 +59,8 @@ body{
 }
 
 .inline-btn:hover{
-    background-color: green;
-    border: 2px solid red;
+    background-color: transparent;
+    border: 2px solid var(--secondary-color);
 }
 
 .border-btn{
