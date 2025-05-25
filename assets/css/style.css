@@ -60,7 +60,7 @@ body{
 
 .inline-btn:hover{
     background-color: transparent;
-    border: 2px solid var(--secondary-color);
+    border: 2px solid red;
 }
 
 .border-btn{
